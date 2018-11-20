@@ -18,8 +18,7 @@ class Login extends Component {
     }
     
     onSubmit() {
-        alert('hello');
-        this.props.history.push('/login');
+        this.props.history.push('/check-weather');
     }
 
     onInputChange(event){

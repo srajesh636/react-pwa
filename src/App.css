@@ -43,5 +43,11 @@
   outline: none;
 }
 
-button:focus {outline:0 !important;}
+button:focus {outline:0 !important; color:white !important}
+
+.heading{
+  color: #f31863;
+  font-size:16px;
+}
+
 
