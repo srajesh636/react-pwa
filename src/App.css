@@ -30,3 +30,18 @@
     transform: rotate(360deg);
   }
 }
+
+.login-image{
+  width:80%;
+  border-radius:50%;
+  background-color: #eeeeee;
+}
+
+
+.login-button{
+  width:200px;
+  outline: none;
+}
+
+button:focus {outline:0 !important;}
+
